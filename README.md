@@ -18,7 +18,7 @@
   <li>Use audio features only (no lyrics or track names)</li>
   <li>Apply data preprocessing and feature scaling</li>
   <li>Visualize mood clusters using PCA</li>
-  <li>(Optional) Predict mood cluster of new songs based on features</li>
+  <li>Predict mood cluster of new songs based on features</li>
 </ul>
 
 <hr>
@@ -68,13 +68,6 @@
 
 <hr>
 
-<hr>
-
-<h2>📈 Output Example</h2>
-<p>2D visualization of clusters using PCA:</p>
-<img src="example_output.png" alt="Mood Clustering PCA Scatterplot" width="700"/>
-
-<hr>
 
 <h2>📦 Dependencies</h2>
 
